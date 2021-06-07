@@ -1,0 +1,27 @@
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\OneNet release 2.0.exe.config
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\OneNet release 2.0.exe
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\OneNet release 2.0.pdb
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet release 2.0.csprojResolveAssemblyReference.cache
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet_release_2._0.Form1.resources
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet_release_2._0.Form2.resources
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet_release_2._0.Properties.Resources.resources
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet release 2.0.csproj.GenerateResource.Cache
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet release 2.0.exe
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet release 2.0.pdb
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\RestSharp.dll
+C:\Users\32183\Desktop\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\RestSharp.xml
+C:\Users\32183\Desktop\上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\OneNet release 2.0.exe.config
+C:\Users\32183\Desktop\上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet release 2.0.exe
+C:\Users\32183\Desktop\上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet release 2.0.pdb
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\OneNet release 2.0.exe.config
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet release 2.0.exe
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet release 2.0.pdb
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\OneNet release 2.0.exe
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\OneNet release 2.0.pdb
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\RestSharp.dll
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\bin\Debug\RestSharp.xml
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet release 2.0.csprojResolveAssemblyReference.cache
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet_release_2._0.Form1.resources
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet_release_2._0.Form2.resources
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet_release_2._0.Properties.Resources.resources
+E:\01上海工商职业技术学院\竞赛\2021年第九届_上海市_星光计划\C#练习\2015\麒麟开发板\release version\release 2.0\OneNet release 2.0\OneNet release 2.0\obj\Debug\OneNet release 2.0.csproj.GenerateResource.Cache
